@@ -24,9 +24,6 @@
 /nbdist/
 /.nb-gradle/
 
-### Inside ###
-/export/
-
 # Project exclude paths
 /eureka-server/target/
 /server-consumer/target/
